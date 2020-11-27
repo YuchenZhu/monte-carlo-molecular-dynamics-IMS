@@ -7,8 +7,8 @@ molecular simulation programming with python
 4. Write functions to sample averages of random configuration.
 5. Verify with experimental results.
 
-![Image text](https://raw.githubusercontent.com/YuchenZhu/MonteCarloMolecularDynamicsIMS/master/img/MC_cycles.png)\\
-![Image text](https://raw.githubusercontent.com/YuchenZhu/MonteCarloMolecularDynamicsIMS/master/img/accProb.png)
+<img src="https://raw.githubusercontent.com/YuchenZhu/MonteCarloMolecularDynamicsIMS/master/img/MC_cycles.png" width=500>
+<img src="https://raw.githubusercontent.com/YuchenZhu/MonteCarloMolecularDynamicsIMS/master/img/accProb.png" width=500>
 
 # Molecular Dynamics Code
 1. Initialize system, assign velocities (3d vectors) satisfy Boltzmann distribution.
@@ -18,5 +18,6 @@ molecular simulation programming with python
 5. Implement thermostat to control system variables.
 6. Equiliburiate system and sample results.
 
-![Image text](https://raw.githubusercontent.com/YuchenZhu/MonteCarloMolecularDynamicsIMS/master/img/mdEq.png)\\
-![Image text](https://raw.githubusercontent.com/YuchenZhu/MonteCarloMolecularDynamicsIMS/master/img/res.png)
+
+<img src="https://raw.githubusercontent.com/YuchenZhu/MonteCarloMolecularDynamicsIMS/master/img/mdEq.png" width=500>
+<img src="https://raw.githubusercontent.com/YuchenZhu/MonteCarloMolecularDynamicsIMS/master/img/res.png" width=500>
